@@ -1,0 +1,367 @@
+body{
+    background-color: #EEEDE7;;
+}
+/* header */
+.header{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    color: #503217;
+    cursor: pointer;
+    background-color: #EEEDE7;
+}
+.header1{
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+}
+.logo{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.header1 img{
+    margin-top: 6px;
+    height: 30px;
+    width: 30px;
+}
+.head{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+.header3{
+    display: flex;
+    height: 30px;
+    width: 30px;
+}
+/* banner */
+.banner{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 100px; */
+    background-color: #E8E6DE;
+    color: #503217;
+    gap: 100px;
+}
+.banner2 img{
+    height: 500px;
+    width: 500px;
+}
+.banner01{
+    display: flex;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    background-color: #503217;
+    color: #F2F2F2;
+
+}
+.banner1{
+    margin-top: 200px;
+    text-align: center;
+}
+.banner02{
+    margin-top: 5px;
+
+}
+/* category */
+.category{
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: #503217;
+}
+h3{
+    font-size: 15px;
+}
+.category1{
+    display: flex;
+    margin-top: 50px;
+    gap: 25px;
+    justify-content: center;
+    font-size: 25px;
+    color: #503217;
+}
+.k{
+    color: #8F7D6A;
+}
+.category01{
+    background-color: #8F7D6A1A;
+    text-align: center;
+    height: 170px;
+    width: 100px;
+    padding: 20px;
+    border-radius: 2px;
+    font-size: 15px;
+
+}
+.category1 img{
+    height: 80px;
+    width: 80px;
+
+}
+.category02{
+   background-color: #8F7D6A1A;
+    text-align: center;
+    height: 170px;
+    width: 100px;
+    padding: 20px;
+    border-radius: 2px;
+    font-size: 15px;
+
+}
+.category03{
+  background-color: #8F7D6A1A;
+    text-align: center;
+    height: 170px;
+    width: 100px;
+    padding: 20px;
+    border-radius: 2px;
+    font-size: 15px;
+}
+.category04{
+   background-color: #8F7D6A1A;
+    text-align: center;
+    height: 170px;
+    width: 100px;
+    padding: 20px;
+    border-radius: 2px;
+    font-size: 15px;
+
+}
+.category05{
+  background-color: #8F7D6A1A;
+    text-align: center;
+    height: 170px;
+    width: 100px;
+    padding: 20px;
+    border-radius: 2px;
+    font-size: 15px;
+
+}
+.category06{
+  background-color: #8F7D6A1A;
+    text-align: center;
+    height: 170px;
+    width: 100px;
+    padding: 20px;
+    border-radius: 2px;
+    font-size: 15px;
+
+}
+.category2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+       background-color: #EEEDE7;
+}
+.category20{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #F2F2F2;
+    height: 200px;
+     width: 300px;
+    color: #503217;
+}
+.category30{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #F2F2F2;
+    height: 200px;
+     width: 300px;
+    color: #503217;
+}
+.category40{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #F2F2F2;
+    height: 200px;
+    width: 300px;
+    color: #503217;
+}
+.san{
+   background-color: #D3744A;
+   color: #F2F2F2;
+   border-radius: 5px;
+   text-align: center;
+   max-width: 80px;
+   font-size: 12px;
+   margin-left: 5px;
+}
+
+.ct-2{
+    margin-top: 50px;
+    font-size: 15px;
+}
+.v{
+    color: #8F7D6A;
+    font-size: 15px;
+    margin-top: 25px;
+}
+/* product */
+.product{
+    margin-top: 50px;
+    background-color: #EEEDE7;
+}
+.product1{
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+   margin-top: 50px;
+}
+.product01{
+    display: flex;
+      background-color: #F2F2F2;
+   color: #503217;
+   height: 200px;
+   width: 200px;
+}
+.product02{
+    display: flex;
+      background-color: #F2F2F2;
+   color: #503217;
+     height: 200px;
+   width: 200px;
+}
+.product03{
+    display: flex;
+      background-color: #F2F2F2;
+   color: #503217;
+     height: 200px;
+   width: 200px;
+}
+.product04{
+    display: flex;
+      background-color: #F2F2F2;
+   color: #503217;
+  height: 200px;
+   width: 200px;
+}
+h5{
+    background-color: #D3744A;
+    color: #F2F2F2;
+    border-radius: 5px;
+    text-align: center;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Pro{
+    margin-top: 180px;
+}
+.Pro1{
+    margin-top: 205px;
+}
+/* reveiw */
+.reveiw{
+    margin-top: 150px;
+}
+.comment{     
+            background-color: #F2F2F2;
+            color: #8F7D6A;
+            text-align: center;
+            justify-content: center;
+            max-width: 800px;
+            padding: 30px;
+            margin: 50px auto;
+            border-radius: 6px;
+            font-size: 10px;
+
+
+}
+.peo{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    background-color: #EEEDE7;
+}
+.peo img{
+    height: 50px;
+    width: 50px;
+}
+.peo1{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.post{
+    color: #8F7D6A;
+    font-size: 10px;
+}
+.name{
+    font-size: 15px;
+}
+.peo2{
+    display: flex;
+    justify-content: center;
+     gap: 15px;
+}
+.peo3{
+    display: flex;
+    justify-content: center;
+     gap: 30px;
+}
+.peo4{
+    display: flex;
+    justify-content: center;
+     gap: 30px;
+}
+
+.title{
+    font-size: 10px;
+    text-align: center;
+    color: #8F7D6A;
+    gap: none;
+}
+/* footer */
+.footer{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+   margin: 20 auto;
+    padding: 30px;
+    background-color: #E8E6DE;
+    color: #503217;
+}
+ul{
+    display: inline;
+    color: #503217;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+}
+
+.nd1{
+    display: flex;
+    font-size: 40px;
+    
+}
+.mt{
+    font-size: 15px;
+
+}
+.ft{
+    margin-top: 10px;
+}
+.nd img{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+
+}
+.nd3{
+    margin-bottom: 100px;
+}
+.nd2{
+    display: inline;
+    justify-content: center;
+
+}
